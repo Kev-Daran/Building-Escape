@@ -2,7 +2,24 @@
 
 A game where you place your i-card in the scanner and a certain amount of weight in desginated areas to escape the Spaceship.
 
-Steps:
+W,A,S,D : Movement keys
+E: Go up
+Q: Go down
+F(Hold): Grab an object
+F(Release): Release the object
+
+![Pilot room](https://user-images.githubusercontent.com/81677957/124648360-cbd2c700-deb4-11eb-846d-7d3ff2b627ba.png)
+
+![Middle room](https://user-images.githubusercontent.com/81677957/124648478-ec9b1c80-deb4-11eb-8a26-3f128146a36a.png)
+
+![Exit room](https://user-images.githubusercontent.com/81677957/124648502-f3c22a80-deb4-11eb-860a-9a48e24b4299.png)
+
+
+
+
+
+
+Steps of creating:
 
 1. Made the map using the assets.
 2. Made a RotateDoor component and attached it to the small doors.
