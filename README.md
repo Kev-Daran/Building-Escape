@@ -7,6 +7,7 @@ E: Go up
 Q: Go down
 F(Hold): Grab an object
 F(Release): Release the object
+Alt + F4: Exit Game
 
 ![Pilot room](https://user-images.githubusercontent.com/81677957/124648360-cbd2c700-deb4-11eb-846d-7d3ff2b627ba.png)
 
@@ -15,8 +16,13 @@ F(Release): Release the object
 ![Exit room](https://user-images.githubusercontent.com/81677957/124648502-f3c22a80-deb4-11eb-860a-9a48e24b4299.png)
 
 
-
-
+Walkthrough of the game:
+1. In the first room look for the card on the cockpit, grab it(using F key) and place it on the scanner(It will be visible by the green light on the cockpit).
+2. In the second room you'll find many boxes and a uniquely coloured tile.
+3. Pick up boxes one by one and place it on the tiles. After 3 tiles have been placed, the door should open.
+4. In the 3rd room you'll find the unique tile again, just place a single box on it and the massive gate should open.
+5. You can walk out of the ship now.
+6. Alt+f4 to exit out of the game.
 
 
 Steps of creating:
