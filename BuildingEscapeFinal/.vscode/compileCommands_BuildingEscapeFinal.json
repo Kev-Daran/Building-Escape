@@ -1,0 +1,57 @@
+[
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\BuildingEscapeFinal.Build.cs",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\BuildingEscapeFinal.cpp",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\BuildingEscapeFinal.h",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\BuildingEscapeFinalGameModeBase.cpp",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\BuildingEscapeFinalGameModeBase.h",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\Grabber.cpp",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\Grabber.h",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\OpenShutter.cpp",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\OpenShutter.h",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\RotateDoor.cpp",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\anime pics\\\\BuildingEscapeFinal\\\\Source\\\\BuildingEscapeFinal\\\\RotateDoor.h",
+		"command": "cl.exe @\"D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal\\BuildingEscapeFinal.190.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.26\\Engine\\Source"
+	}
+]

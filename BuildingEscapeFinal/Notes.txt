@@ -1,0 +1,28 @@
+UWorld::LineTraceSingleByObjectType()  : Enables raycasting
+
+FCollisionObjectQueryParams(ECollisionChannel::ECC_PhysicsBody) : To check for physics enable actors
+
+We need to add the physics handle component from the engine editor to our pawn
+
+We assign physics handle in our cpp code by using FindComponentByClass<>()
+
+Physicshandle is a pointer of UPhysicsHandleComponent
+
+UInputComponent is used for custom input bindings
+It is similar to UPhysicsHandle
+After setting inputcomponent up bind the action to it
+Input Event = IE_...
+Key object for grabbing will be "this" since we need it to grab the object that is running the function.
+
+UPrimitiveComponent is the component we need to grab or manipulate
+
+FHitResult::GetComponent will return the component required
+
+if the physicshandle has a grabbed component we have to update its location every tick so as to give the image that we are actually holding the object.
+
+Base eye height is in the (self) area of the blueprint.
+
+ATriggerVolume->GetOverlappingActos(AActor* Actor) to find what all actors are currently there in the trigger volume
+
+AActor->FindComponentbyClass<UPrimitiveComponent>()->GetMass() to get the weight of the actor (Used in the trigger volume).
+

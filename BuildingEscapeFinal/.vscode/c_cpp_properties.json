@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "BuildingEscapeFinalEditor Editor Win64 Development (BuildingEscapeFinal)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_BuildingEscapeFinal.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\anime pics\\BuildingEscapeFinal\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

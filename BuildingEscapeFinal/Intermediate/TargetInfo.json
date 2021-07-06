@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingEscapeFinal",
+			"Path": "D:\\anime pics\\BuildingEscapeFinal\\Source\\BuildingEscapeFinal.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingEscapeFinalEditor",
+			"Path": "D:\\anime pics\\BuildingEscapeFinal\\Source\\BuildingEscapeFinalEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BuildingEscapeFinal-1739.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\BuildingEscapeFinalEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\BuildingEscapeFinal.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\BuildingEscapeFinalGameModeBase.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\Grabber.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\OpenShutter.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\RotateDoor.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\BuildingEscapeFinal.init.gen.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\BuildingEscapeFinalGameModeBase.gen.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\Grabber.gen.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\OpenShutter.gen.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\RotateDoor.gen.cpp.obj"
+"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\Default.rc2.res"
+/OUT:"D:\anime pics\BuildingEscapeFinal\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscapeFinal\UE4Editor-BuildingEscapeFinal-1739.lib"
+/INCLUDE:IMPLEMENT_MODULE_BuildingEscapeFinal
