@@ -2,12 +2,12 @@
 
 A game where you place your i-card in the scanner and a certain amount of weight in desginated areas to escape the Spaceship.
 
-W,A,S,D : Movement keys
-E: Go up
-Q: Go down
-F(Hold): Grab an object
-F(Release): Release the object
-Alt + F4: Exit Game
+W,A,S,D : Movement keys  <br>
+E: Go up  <br>
+Q: Go down  <br>
+F(Hold): Grab an object  <br>
+F(Release): Release the object  <br>
+Alt + F4: Exit Game  <br>
 
 ![Pilot room](https://user-images.githubusercontent.com/81677957/124648360-cbd2c700-deb4-11eb-846d-7d3ff2b627ba.png)
 
@@ -16,7 +16,7 @@ Alt + F4: Exit Game
 ![Exit room](https://user-images.githubusercontent.com/81677957/124648502-f3c22a80-deb4-11eb-860a-9a48e24b4299.png)
 
 
-Walkthrough of the game:
+## Walkthrough of the game:
 1. In the first room look for the card on the cockpit, grab it(using F key) and place it on the scanner(It will be visible by the green light on the cockpit).
 2. In the second room you'll find many boxes and a uniquely coloured tile.
 3. Pick up boxes one by one and place it on the tiles. After 3 tiles have been placed, the door should open.
@@ -25,8 +25,7 @@ Walkthrough of the game:
 6. Alt+f4 to exit out of the game.
 
 
-Steps of creating:
-
+## Steps of creating:
 1. Made the map using the assets.
 2. Made a RotateDoor component and attached it to the small doors.
 3. Editted the gamemode to allow me to make changes to the default pawn.
