@@ -44,4 +44,4 @@ Alt + F4: Exit Game  <br>
 Assets: Spaceship Interior Environment Set by Denys Rutkovskyi in Epic Games Marketplace
 
 Made in Unreal Engine using C++<br>
-Part of the Unreal Engine with C++ course on Udemy
+Part of the Unreal Engine with C++ course on Udemy.
